@@ -1,0 +1,516 @@
+[🍁 MRWEEBEE | M&T BANK  | CLIENT : 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : gyru7gt
+# PASSWORD   : juugih
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 07:45:19 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : sdferfsdf
+# PASSWORD   : dcgsfd
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 08:05:21 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : erfwerfwerf
+# PASSWORD   : wefrwefrewfr
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 08:08:45 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : esgdsgrseg
+# PASSWORD   : sdsdf
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 08:17:28 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : higuytioi
+# PASSWORD   : guytugto
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 08:38:08 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : gyrttiuph
+# PASSWORD   : vgyy6ogvcugt
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 08:38:18 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : VGYR7UTIYH
+# PASSWORD   : ufyufojk
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 01:41:00 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : bhyfrydhgf7
+# PASSWORD   : gyruyhkuy
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 01:41:13 09/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ OLA-CU BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : chghgfzd2fyufyfu@rgddtygv.vom
+# PASSWORD    : cyfddefrkjhgdfjk
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ CU_1 BANK ⚓️ CLIENT : ⚓️]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : FGSFG
+# LASTNAME    : DSFSF
+# ADDRESS     : TRFHRFDG ERGEDR
+# CITY        : NEWYORK
+# STATE       : NEW YORK
+# ZIP CODE    : 10010
+# SSN         : 232-32-3232
+# DOB         : 01/11/2000
+# NUMBER      : +1(432)-255-4333
+# CPIN        : 212222
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ CU_1 BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : dfsgdfgdfg
+# PASSWORD   : fdgdgdf
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:55:17 17/01/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ CU_1 BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : xfnbnmhgfn
+# PASSWORD   : fgdnhmhtrhj,
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 04:11:21 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : Hsjsbksjsbs
+# PASSWORD   : jwjsjsjnsmsk
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 12; DN2101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 202.170.207.226
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Palakkad
+# TIMEZONE   : Asia/Kolkata, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : India, IN
+# REGION     : 
+# DATE       : 06:57:00 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : bigdby3
+# PASSWORD   : whoopme26
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 2600:1006:b106:b91a:4c64:d860:8d9:1efc
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Delray Beach
+# TIMEZONE   : America/Kentucky/Monticello, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : United States, US
+# REGION     : 
+# DATE       : 06:57:38 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : fggftygctfgh
+# PASSWORD   : tfgiuytdtfgh
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 11:48:02 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : tyhjhjytyj
+# PASSWORD   : tyjytmj
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 12:21:58 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ CU_1 BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : fggfddfv
+# PASSWORD   : fdvdfvdvf
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 12:23:22 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : sdffggfgghjfgr
+# PASSWORD   : sgtfdbhfdgh
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 01:01:19 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : sdffggfgghjfgr
+# PASSWORD   : sgtfdbhfdgh
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 01:01:20 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ St.Mary'S BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : szdfghrfghfgh
+# PASSWORD   : dfghedfghrf
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 01:01:36 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ St.Mary'S BANK ⚓️ CLIENT ⚓️: ⚓️]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : cyberkbjshgshoatta@yahoo.com
+# PASSWORD    : fdttydygfdt6yg
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : ::1
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST Marys'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : Vvbvvss
+# PASSWORD   : sbbhh
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 9; ONEPLUS A5000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 2607:9000:4000:15::b83e
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Capon Bridge
+# TIMEZONE   : America/New_York, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : United States, US
+# REGION     : 
+# DATE       : 02:06:20 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ St.Mary'S BANK ⚓️ CLIENT : ⚓️]
+
+********** [ 💻 2 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : Ghhhhhs
+# PASSWORD   : shhhhhg
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Linux; Android 9; ONEPLUS A5000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 2607:9000:4000:15::b83e
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Capon Bridge
+# TIMEZONE   : America/New_York, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : United States, US
+# REGION     : 
+# DATE       : 02:06:30 27/02/2023
+# TIME       : 
+# ISP        : 
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ St.Mary'S BANK ⚓️ CLIENT ⚓️: ⚓️]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : vBbajsns@gshsjj.com
+# PASSWORD    : sbshhshs
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 2607:9000:4000:15::b83e
+**********************************************
+[⚓️ CYBERKOATTA ⚓️ ST.MARY'S BANK ⚓️ CLIENT ⚓️ : ⚓️]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : HHHA
+# LASTNAME    : BHH
+# ADDRESS     : VZBZBZBZHS
+# CITY        : ZVVZ
+# STATE       : ZVVZ
+# ZIP CODE    : 997
+# SSN         : 946-49-4949
+# DOB         : 05/06/
+# NUMBER      : +1(979)-779-7979
+# CPIN        : 997979
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 2607:9000:4000:15::B83E
+**********************************************
